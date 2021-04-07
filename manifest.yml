@@ -3,4 +3,4 @@ version: 1
 applications:
 - name: flask-app
   routes:
-  - route: flask-app-[your-unique-username].apps.smu.hackathon.systems
+  - route: flask-app-jiayumeng.apps.smu.hackathon.systems
